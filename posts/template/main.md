@@ -5,5 +5,5 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 # title
 
-Write contents here. hoge hoge
+Write contents here.
 
