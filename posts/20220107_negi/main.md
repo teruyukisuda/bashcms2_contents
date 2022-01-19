@@ -1,6 +1,6 @@
 ---
 Keywords: ネギ
-Copyright: (C) 2022 TS777789
+Copyright: (C) 2022 TS777qqq
 ---
 
 # ネギの惑星
