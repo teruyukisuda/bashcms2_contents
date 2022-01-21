@@ -1,6 +1,6 @@
 ---
 keywords:
-Copyrightl: 2021 teruyuki suda
+Copyright: 2021 teruyuki suda
 ---
 
 # title
