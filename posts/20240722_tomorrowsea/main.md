@@ -9,4 +9,6 @@ Copyright: (C) 2024 Teruyuki Suda
 * 浜焼き
 * 宿泊先
 ** 休暇村 
+** 波さま海水浴場
+
 
